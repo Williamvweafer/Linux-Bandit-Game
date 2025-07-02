@@ -12,7 +12,7 @@ The password for the next level is stored in the file data.txt next to the word 
 
 Password Found: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
-![Image](images/Level7o8.png)
+![Image](images/Level7to8.png)
 
 ## What Did I Learn?
 
